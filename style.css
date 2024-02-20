@@ -14,7 +14,7 @@ justify-content: space-evenly;
 
 
 .nav ,ul,li, a:hover{
-scale: 1.2;
+scale: 1.3;
 }
 
 .nav,a{
@@ -39,6 +39,9 @@ margin: auto;
     font-family: sans-serif;
     
 
+}
+img{
+    box-shadow: 10px 7px 20px orange;
 }
 .main,img:hover{
 scale: 1.2;
